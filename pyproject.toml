@@ -7,6 +7,8 @@ authors = ["arpix <<>>"]
 [tool.poetry.dependencies]
 python = "^3.8"
 Flask = "^2.0.1"
+selenium = "^3.141.0"
+webbot = "^0.34"
 
 [tool.poetry.dev-dependencies]
 
